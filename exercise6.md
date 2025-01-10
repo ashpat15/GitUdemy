@@ -1,1 +1,0 @@
-This is a new file created to learn renaming and deleting a file.
