@@ -1,5 +1,4 @@
-
-This is a new line in the main branch. additional change to test merging branch.
+This is a new line in the main branch. Testing & additional merging branch with conflicts.
 
 This documentation describes how to use the Karel automatic toothbrush. who cannot use this. 
 
